@@ -32,7 +32,7 @@
 
     python viewdata.py
 
-Requirements for AWS (Deep Learning AMI (Ubuntu) Version 11.0 - ami-c47c28bc) ~
-    pip install keras ~
-    pip install theano ~
-    pip install pydot ~
+Requirements for AWS (Deep Learning AMI (Ubuntu) Version 11.0 - ami-c47c28bc)  
+    pip install keras   
+    pip install theano   
+    pip install pydot   

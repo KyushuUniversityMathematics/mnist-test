@@ -32,7 +32,9 @@
 
     python viewdata.py
 
-Requirements for AWS (Deep Learning AMI (Ubuntu) Version 11.0 - ami-c47c28bc)  
+Requirements for AWS (Deep Learning AMI (Ubuntu) Version 11.0 - ami-c47c28bc)
+    pip install --upgrade pip   
     pip install keras   
     pip install theano   
-    pip install pydot   
+    pip install pydot
+    git clone https://github.com/KyushuUniversityMathematics/mnist-test.git   

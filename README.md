@@ -37,3 +37,4 @@ Requirements for AWS (Deep Learning AMI (Ubuntu) Version 11.0 - ami-c47c28bc)
     pip install --upgrade pip   
     pip install sklearn pydot  
     git clone https://github.com/KyushuUniversityMathematics/mnist-test.git   
+cf. https://www.slideshare.net/yoshihiromizoguchi/amazon-aws-108155910  
